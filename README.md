@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on App Store and Google Play game-project
+генеральный директор гугл
 
 
 ## 🌐 Socials:
