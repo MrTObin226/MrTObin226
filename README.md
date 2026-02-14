@@ -10,7 +10,7 @@
 
 <!--# Tech:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)-->
-# 📊 GitHub Stats:
+# Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=MrTObin226&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=MrTObin226&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTObin226&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
